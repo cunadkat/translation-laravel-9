@@ -12,8 +12,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Chirag Unadkat",
-            "email": "cunadkat@argusoft.in"
+            "name": "Waavi",
+            "email": "info@waavi.com",
+            "homepage": "http://waavi.com"
         }
     ],
     "require": {
