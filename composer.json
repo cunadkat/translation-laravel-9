@@ -1,5 +1,5 @@
 {
-    "name": "waavi/translation",
+    "name": "cunadkat/translation-laravel-9",
     "description": "A Translation package for Laravel 9 with database and cache support",
     "keywords": [
         "waavi",
